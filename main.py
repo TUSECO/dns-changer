@@ -143,7 +143,7 @@ def main():
     app = QApplication(sys.argv)
 
     app.setApplicationName(LanguageManager.t("app_title"))
-    app.setOrganizationName("Antolun")
+    app.setOrganizationName("TUSECO")
     app.setWindowIcon(_icon("dns-changer.png"))
     
     window = MainWindow()

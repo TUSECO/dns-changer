@@ -36,7 +36,7 @@ A DNS management tool for Linux NetworkManager-based systems, built with PyQt6.
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/Antolun/dns-changer.git
+git clone https://github.com/TUSECO/dns-changer.git
 cd dns-changer
 
 # 2. Start Build
